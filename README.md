@@ -45,7 +45,7 @@ Transcriptome:
 [KIRP](https://xenabrowser.net/datapages/?dataset=TCGA-KIRP.star_fpkm-uq.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443),
 [KIRC](https://xenabrowser.net/datapages/?dataset=TCGA-KIRC.star_fpkm-uq.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
-Clinical:   
+Clinical:
 [KICH](https://xenabrowser.net/datapages/?dataset=TCGA-KICH.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443),
 [KIRP](https://xenabrowser.net/datapages/?dataset=TCGA-KIRP.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443),
 [KIRC](https://xenabrowser.net/datapages/?dataset=TCGA-KIRC.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
