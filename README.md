@@ -30,7 +30,15 @@ gunzip Data/TCGA_Clinical/*.gz
 ```
 
 ## Data Availability
-The transcriptomic data used in this project is publicly available from the Genomic Data Commons (GDC). We used the following datasets: TCGA-KICH (Kidney Chromophobe), TCGA-KIRC (Kidney Renal Clear Cell Carcinoma), TCGA-KIRP (Kidney Renal Papillary Cell Carcinoma). In addition, Clinical data for the same cohorts (TCGA-KICH, TCGA-KIRC, and TCGA-KIRP) were also obtained from the Genomic Data Commons (GDC). For more information about all of this data you can follow the links below. 
+The transcriptomic and clinical data used in this project are publicly available from the Genomic Data Commons (GDC), part of The Cancer Genome Atlas (TCGA).
+
+The following datasets were used:
+
+TCGA-KICH (Kidney Chromophobe)
+TCGA-KIRC (Kidney Renal Clear Cell Carcinoma)
+TCGA-KIRP (Kidney Renal Papillary Cell Carcinoma)
+
+Data can be accessed either through the links below or via the command-line tools described in the Usage section.
 
 Transcriptome:
 [KICH](https://xenabrowser.net/datapages/?dataset=TCGA-KICH.star_fpkm-uq.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
