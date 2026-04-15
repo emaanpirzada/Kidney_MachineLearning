@@ -8,7 +8,6 @@ Create these folders first:
 mkdir data
 mkdir data/TCGA_Transcriptome
 mkdir data/TCGA_Clinical
-
 ```
 
 To download transcriptome data: 
