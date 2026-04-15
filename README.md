@@ -34,11 +34,11 @@ The transcriptomic and clinical data used in this project are publicly available
 
 The following datasets were used:
 
-TCGA-KICH (Kidney Chromophobe)
+* TCGA-KICH (Kidney Chromophobe)
 
-TCGA-KIRC (Kidney Renal Clear Cell Carcinoma)
+* TCGA-KIRC (Kidney Renal Clear Cell Carcinoma)
 
-TCGA-KIRP (Kidney Renal Papillary Cell Carcinoma)
+* TCGA-KIRP (Kidney Renal Papillary Cell Carcinoma)
 
 Data can be accessed either through the links below or via the command-line tools described in the Usage section.
 
